@@ -1,0 +1,6 @@
+framework module PeekView {
+  umbrella header "PeekView-umbrella.h"
+
+  export *
+  module * { export * }
+}
